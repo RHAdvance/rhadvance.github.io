@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 08 May 2025 10:39:16 at https://www.nintendo.co.jp/n08/brij/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nintendo.co.jp/n08/brij/index.html -O1 "C:\Users\Itai\Desktop\rhythm tengoku website\rhythm tengoku website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/kouryak/index.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/stage01_1.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/stage01_2.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/stage01_3.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/stage01_4.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/stage01_5.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/tm_01.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/tm_02.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/tm_03.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/tm_04.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/tm_05.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/tm_06.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+10:41:43	Error: 	"Not Found" (404) at link https://www.nintendo.co.jp/n08/brij/tm_07.html (from https://www.nintendo.co.jp/n08/brij/js/popup.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 30 seconds : 417 links scanned, 403 files written (2527845 bytes overall) [2665309 bytes received at 12691 bytes/sec], 172893 bytes transferred using HTTP compression in 25 files, ratio 31%, 69.5 requests per connection
+(13 errors, 0 warnings, 0 messages)
